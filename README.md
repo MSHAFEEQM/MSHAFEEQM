@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammed Shafeeq M
+Hi U+1F970 My name is Mohammed Shafeeq M
 ===================================
 
 Full Stack Web Developer
