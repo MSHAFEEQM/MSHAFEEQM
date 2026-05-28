@@ -8,7 +8,6 @@ I am a computer science graduate and I have experience with using computers on b
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [mshafeeqmsmc@gmail.com](mailto:mshafeeqmsmc@gmail.com)
-* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on companies which are provide services in my interested fileds.
 * ⚡  I’m interested in software development based on technologies like web development, IoT, AI, ML.
 
